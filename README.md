@@ -26,4 +26,4 @@
 
 **Survey:**
 
-https://forms.gle/1Xv2A4DdR7UAMuSYA
+[https://tinyurl.com/UW-ML-Tutorial-Survey](https://tinyurl.com/UW-ML-Tutorial-Survey)
