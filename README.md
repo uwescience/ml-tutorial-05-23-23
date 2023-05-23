@@ -5,7 +5,7 @@
 **Instructors:** Valentina Staneva and Ariel Rokem
 
 **Resources:**
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1b4pvtfHXd6AQQsUHZB14PRb4ooDwBbukYZ88kK8L62A/edit?usp=sharing)
 * [Jupyter Book](https://neuroimaging-data-science.org/content/007-ml/001-core-concepts.html)
 * [Interactive Notebooks](https://github.com/arokem/binder-nds)
   * click on `Launch Binder` button in the beginning of the session as it takes some time to set up the environment (~10min)
@@ -16,7 +16,7 @@
 
 **Agenda:**
 
-* Overview of Machine Learning ~ 30min
+* Overview of Machine Learning ~ 20min
 * Model Evaluation and Selection ~ 1 hour
 * Break ~ 15 min
 * Introduction to Deep Learning ~ 40min
