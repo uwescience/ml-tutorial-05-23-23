@@ -23,3 +23,7 @@
 * Introduction to Deep Learning ~ 40min
 * Deep learning for Computer Vision ~ 20 min
 * Machine Learning Pipelines ~ 10 min
+
+**Survey:**
+
+https://forms.gle/1Xv2A4DdR7UAMuSYA
